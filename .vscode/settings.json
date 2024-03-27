@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "memory.h": "c",
+        "*.x": "c",
+        "*.def": "c",
+        "*.inc": "c",
+        "*.tcc": "c",
+        "cstring": "c",
+        "algorithm": "c",
+        "stddef.h": "c",
+        "disk.h": "c",
+        "config.h": "c",
+        "status.h": "c",
+        "io.h": "c",
+        "string.h": "c",
+        "thread": "c",
+        "fat16.h": "c",
+        "kernel.h": "c",
+        "tss.h": "c",
+        "gdt.h": "c",
+        "paging.h": "c",
+        "misc.h": "c",
+        "task.h": "c",
+        "classicps2.h": "c",
+        "kheap.h": "c",
+        "process.h": "c",
+        "idt.h": "c",
+        "heap.h": "c",
+        "keyboard.h": "c"
+    },
+    "cmake.configureOnOpen": false
+}
